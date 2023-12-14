@@ -1,7 +1,7 @@
-## Business Intelligence Developer | Python Specialist 
+## Software Engineer 
 ### Links to site
-[Technology Portfolio - Index Page](https://j456367.github.io/J456367.skillsdashboard/)
+[Business Site](https://silvertine.technology)
 
-[Technology Skill Visualisation: Skills Dashboard](https://j456367.github.io/J456367.skillsdashboard/skill_dashboard.html)
+James is an expert software engineer making use of design and system architecture principles to provide models to businesses to support with operations and data.
 
-
+Software Engineering – Data and Frontend | Design and System Architecture | Data through SQL, Pandas, and Visualisation frameworks | CAD | Psychology
