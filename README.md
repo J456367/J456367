@@ -1,5 +1,5 @@
-## Python Developer | Full-Stack Engineering | Quantitative Models
+Software Engineer, consultant and director of Silvertine. Providing custom end to end software engineering solutions.
 
-Full-stack Python developer and Director at Silvertine, building robust, data-driven web applications and quantitative models from concept to deployment. 
+Email: inquiries@silvertine.technology
 
 Learn more: [Silvertine](https://silvertine.technology)
