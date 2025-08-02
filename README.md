@@ -1,5 +1,7 @@
-Software Engineer, consultant and director of Silvertine. Providing custom end to end software engineering solutions.
+Highly motivated and analytical software engineer and solution architect with expertise in developing robust, data-driven technology solutions.
 
-Email: inquiries@silvertine.technology
+Proficient in Python, with a strong background in web development, data analysis, data modelling and machine learning, aligning with security conscious, intelligent application development.
+
+Director of Silvertine where I work as a Software Engineer and Solution Architect.
 
 Learn more: [Silvertine](https://silvertine.technology)
